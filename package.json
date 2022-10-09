@@ -18,7 +18,8 @@
     "url": "https://github.com/Natalia970970/goit-js-hw-09/issues"
   },
   "dependencies": {
-  
+    "flatpickr": "^4.6.13",
+    "notiflix": "^3.2.5"
   },
   "devDependencies": {
     "@parcel/transformer-sass": "^2.6.0",
